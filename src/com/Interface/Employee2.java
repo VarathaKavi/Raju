@@ -5,6 +5,7 @@ import java.util.Set;
 
 public class Employee2 {
 	public static void main(String[] args) {
+		//rtyuiertyuiddtg
 		int a []=new int [10];
 	a[0]=1;
 	a[1]=2;
