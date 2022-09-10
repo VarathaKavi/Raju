@@ -2,6 +2,7 @@ package com.Interface;
 
 public class Employee1 {
 	public static void main(String[] args) {
+		// its on three dimensional array
 		int [] [] []a1=new int [4][2][2];
 		
 		a1[0][0][0]=21;
