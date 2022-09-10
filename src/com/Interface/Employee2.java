@@ -19,7 +19,8 @@ public class Employee2 {
 	a[9]=10;
 	
 	System.err.println(a[4]);
-	
+	System.err.println(a[5]);
+	System.err.println(a[6]);
 	int length = a.length;
 	System.out.println(length);
 	int sum=0;
